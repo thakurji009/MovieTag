@@ -1,5 +1,5 @@
-const API_KEY = "6f0657f7d32720a63755fba527bf0f41";
-const BASE_URL = "https://api.themoviedb.org/3";
+const API_KEY = "ADD_API_KEY";
+const BASE_URL = "https://api.themoviedb.org/3"; //Only for TMDB
 
 export const getPopularMovies = async () => {
     const response = await fetch(`${BASE_URL}/movie/popular?api_key=${API_KEY}`);
