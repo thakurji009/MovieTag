@@ -6,6 +6,8 @@ It uses **The Movie Database (TMDB)** API to fetch real movie data.
 
 ---
 
+![MovieTag Preview](./src/assets/preview.png)
+
 1. Features
 -----------
 
@@ -13,8 +15,6 @@ It uses **The Movie Database (TMDB)** API to fetch real movie data.
 - **Search movies** by title.
 - **Tag movies** (for example: “Favorites”, “Watch Later”, “Comedy”).
 - **Simple and clean UI** that works on desktop and mobile.
-
-*(Update this list as you add more features.)*
 
 ---
 
@@ -24,8 +24,6 @@ It uses **The Movie Database (TMDB)** API to fetch real movie data.
 - **Framework**: React  
 - **Language**: JavaScript (or TypeScript, if you use it)  
 - **API**: TMDB (The Movie Database)  
-
-> Edit this section if you use tools like Vite, CRA, Tailwind, etc.
 
 ---
 
@@ -100,7 +98,5 @@ src/
 README.md
 package.json
 ```
-
-Adjust this to match your actual structure.
 
 ---
